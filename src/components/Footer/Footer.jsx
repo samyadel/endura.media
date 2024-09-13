@@ -11,7 +11,7 @@ function Footer() {
 					Sooo....Are you ready to boost your sales?
 				</h2>
 				<a href="https://calendly.com/samy-adel/consultation" target="_blank">
-					<button className="footer-button">Book your free consultation</button>
+					<button className="footer-button" id="book-consultation">Book your free consultation</button>
 				</a>
 			</div>
 			<div className="footer-nav">

@@ -35,7 +35,7 @@ function Header() {
 
 			<div>
 				<a href="https://calendly.com/samy-adel/consultation" target="_blank">
-					<button className="coa">Book your free consultation</button>
+					<button className="coa" id="book-consultation">Book your free consultation</button>
 				</a>
 			</div>
 		</header>

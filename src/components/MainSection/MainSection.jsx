@@ -61,7 +61,7 @@ function MainSection() {
 							href="https://calendly.com/samy-adel/consultation"
 							target="_blank"
 						>
-							<button className="coa2">Book your free consultation</button>
+							<button className="coa2" id="book-consultation">Book your free consultation</button>
 						</a>
 
 						<button className="secondaryBtn" onClick={() => setOpen(true)}>
