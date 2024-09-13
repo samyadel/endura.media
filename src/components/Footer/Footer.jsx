@@ -21,7 +21,7 @@ function Footer() {
 					<li>
 						<a href="#about">About us</a>
 					</li>
-					<li>
+					<li
 						<a href="#features">What we offer</a>
 					</li>
 					<li>
@@ -46,8 +46,8 @@ function Footer() {
 			<div className="footer-bottom">
 				<p>&copy; Copyright 2024, All Rights Reserved</p>
 				<div className="footer-legal">
-					<a href="#privacy">Privacy Policy</a>
-					<a href="#terms">Terms & Conditions</a>
+					<a href="https://samyadel.github.io/endura.media-privacy/" target="_blank">Privacy Policy</a>
+					<a href="https://samyadel.github.io/endura.media-tos/" target="_blank">Terms & Conditions</a>
 				</div>
 			</div>
 		</footer>

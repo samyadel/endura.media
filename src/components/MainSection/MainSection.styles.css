@@ -70,7 +70,7 @@ main > div {
 }
 
 .heading {
-	font-size: 60px; /* 70px -> 4.375rem */
+	font-size: 3.75rem; /* 70px -> 4.375rem */
 	line-height: 1.5;
 	width: 80%;
 	text-transform: uppercase;
@@ -79,7 +79,7 @@ main > div {
 
 .subheading {
 	margin-bottom: 35px;
-	font-size: 23px;
+	font-size: 1.4375rem;
 	width: 75%;
 	line-height: 1.4;
 }
@@ -107,6 +107,7 @@ p:has(+ .heading) {
 	text-transform: uppercase;
 	margin-right: 10px;
 	transition: all 0.3s ease;
+	font-size: 0.875rem;
 }
 
 .coa2:hover {
@@ -134,7 +135,7 @@ p:has(+ .heading) {
 	justify-content: center;
 	align-items: center;
 	margin-right: 12px;
-	font-size: 15px;
+	font-size: 0.9375rem;
 }
 
 .divider {
@@ -213,7 +214,7 @@ p:has(+ .heading) {
 	}
 
 	.subheading {
-		font-size: 20px;
+		font-size: 1.25rem;
 	}
 
 	.testimonialWrapper {
@@ -296,7 +297,7 @@ p:has(+ .heading) {
 	}
 
 	.subheading {
-		font-size: 23px;
+		font-size: 1.4375rem;
 	}
 
 	.secondaryBtn {
@@ -339,7 +340,7 @@ p:has(+ .heading) {
 	}
 
 	.subheading {
-		font-size: 20px;
+		font-size: 1.25rem;
 	}
 
 	.testimonialWrapper p {
@@ -375,7 +376,7 @@ p:has(+ .heading) {
 	}
 
 	.subheading {
-		font-size: 18px;
+		font-size: 1.125rem;
 	}
 
 	p:has(+ .heading) {
@@ -384,7 +385,7 @@ p:has(+ .heading) {
 
 	.coa2,
 	.secondaryBtn {
-		padding: 0.9375rem; /* 15px -> 0.9375rem */
+		padding: 1.15rem; /* 15px -> 0.9375rem */
 	}
 
 	.secondaryBtn {
